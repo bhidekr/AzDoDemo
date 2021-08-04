@@ -26,7 +26,7 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.8.1</version>
         </plugin>
-        ...
+  
       </plugins>
     </pluginManagement>
     <!-- To use the plugin goals in your POM or parent POM -->
@@ -36,7 +36,7 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
       </plugin>
-      ...
+
     </plugins>
   </build>
 </project>
